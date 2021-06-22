@@ -44,7 +44,9 @@ jobs:
         run: make update
 
       - name: Make the site
-        run: make build-docs
+        run: |
+          make install
+          make build-docs
 
       - name: Commit files
         run: |
