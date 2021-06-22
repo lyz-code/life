@@ -8,14 +8,6 @@ nav:
 
 plugins:
   - search
-  - mkdocstrings:
-      handlers:
-        python:
-          rendering:
-            show_root_heading: true
-            heading_level: 1
-      watch:
-        - src
   - autolinks
   - git-revision-date-localized:
       type: timeago
