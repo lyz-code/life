@@ -3,7 +3,7 @@
 .PHONY: install
 install:
 	python -m pip install -U setuptools pip
-	pip install -r docs/requirements.txt
+	pip install -r requirements.txt
 
 .PHONY: update
 update:
@@ -13,9 +13,9 @@ update:
 
 	pip install -U pip
 
-	rm docs/requirements.txt
-	touch docs/requirements.txt
-	pip-compile -Ur --allow-unsafe docs/requirements.in --output-file docs/requirements.txt
+	rm requirements.txt
+	touch requirements.txt
+	pip-compile -Ur --allow-unsafe requirements.in --output-file requirements.txt
 
 	@echo ""
 
