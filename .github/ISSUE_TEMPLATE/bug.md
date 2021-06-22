@@ -23,12 +23,3 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 -->
-
-## Environment
-<!--
-make version
-
-# or
-
-python -c "import life.version; print(life.version.version_info())"
--->

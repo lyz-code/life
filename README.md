@@ -1,10 +1,6 @@
 # Life
 
-[![Actions Status](https://github.com/lyz-code/life/workflows/Tests/badge.svg)](https://github.com/lyz-code/life/actions)
-[![Actions Status](https://github.com/lyz-code/life/workflows/Build/badge.svg)](https://github.com/lyz-code/life/actions)
-[![Coverage Status](https://coveralls.io/repos/github/lyz-code/life/badge.svg?branch=master)](https://coveralls.io/github/lyz-code/life?branch=master)
-
-The best roleplaying game ever
+The best role playing game ever.
 
 ## Help
 
@@ -12,9 +8,7 @@ See [documentation](https://lyz-code.github.io/life) for more details.
 
 ## Installing
 
-```bash
-pip install life
-```
+It's already installed!
 
 ## Contributing
 
