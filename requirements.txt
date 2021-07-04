@@ -70,7 +70,7 @@ mkdocs-minify-plugin==0.4.0
     # via -r requirements.in
 mkdocs-section-index==0.3.1
     # via -r requirements.in
-packaging==20.9
+packaging==21.0
     # via mkdocs
 pygments==2.9.0
     # via mkdocs-material
