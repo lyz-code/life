@@ -10,7 +10,7 @@ beautifulsoup4==4.9.3
     # via mkdocs-htmlproofer-plugin
 certifi==2021.5.30
     # via requests
-charset-normalizer==2.0.1
+charset-normalizer==2.0.2
     # via requests
 click==8.0.1
     # via mkdocs
@@ -78,7 +78,7 @@ pymdown-extensions==8.2
     # via mkdocs-material
 pyparsing==2.4.7
     # via packaging
-python-dateutil==2.8.1
+python-dateutil==2.8.2
     # via ghp-import
 pytz==2021.1
     # via babel
