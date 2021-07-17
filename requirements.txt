@@ -10,7 +10,7 @@ beautifulsoup4==4.9.3
     # via mkdocs-htmlproofer-plugin
 certifi==2021.5.30
     # via requests
-charset-normalizer==2.0.2
+charset-normalizer==2.0.3
     # via requests
 click==8.0.1
     # via mkdocs
