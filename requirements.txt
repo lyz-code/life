@@ -73,7 +73,7 @@ mkdocs-section-index==0.3.1
     # via -r requirements.in
 packaging==21.0
     # via mkdocs
-pygments==2.9.0
+pygments==2.10.0
     # via mkdocs-material
 pymdown-extensions==8.2
     # via mkdocs-material
