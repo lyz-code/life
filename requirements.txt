@@ -101,7 +101,7 @@ typing-extensions==3.10.0.2
     # via
     #   gitpython
     #   importlib-metadata
-urllib3==1.26.6
+urllib3==1.26.7
     # via requests
 watchdog==2.1.5
     # via mkdocs
