@@ -105,5 +105,5 @@ urllib3==1.26.7
     # via requests
 watchdog==2.1.5
     # via mkdocs
-zipp==3.5.0
+zipp==3.5.1
     # via importlib-metadata
