@@ -75,7 +75,7 @@ packaging==21.0
     # via mkdocs
 pygments==2.10.0
     # via mkdocs-material
-pymdown-extensions==8.2
+pymdown-extensions==9.0
     # via mkdocs-material
 pyparsing==2.4.7
     # via packaging
@@ -105,5 +105,5 @@ urllib3==1.26.7
     # via requests
 watchdog==2.1.5
     # via mkdocs
-zipp==3.5.1
+zipp==3.6.0
     # via importlib-metadata
