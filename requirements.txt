@@ -81,7 +81,7 @@ pyparsing==2.4.7
     # via packaging
 python-dateutil==2.8.2
     # via ghp-import
-pytz==2021.1
+pytz==2021.3
     # via babel
 pyyaml==5.4.1
     # via
@@ -103,7 +103,7 @@ typing-extensions==3.10.0.2
     #   importlib-metadata
 urllib3==1.26.7
     # via requests
-watchdog==2.1.5
+watchdog==2.1.6
     # via mkdocs
 zipp==3.6.0
     # via importlib-metadata
