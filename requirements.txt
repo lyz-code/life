@@ -29,7 +29,7 @@ importlib-metadata==4.8.1
     #   click
     #   markdown
     #   mkdocs
-jinja2==3.0.1
+jinja2==3.0.2
     # via mkdocs
 jsmin==3.0.0
     # via mkdocs-minify-plugin
