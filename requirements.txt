@@ -39,7 +39,7 @@ jsmin==3.0.0
     # via mkdocs-minify-plugin
 lxml==4.6.4
     # via mkdocs-htmlproofer-plugin
-markdown==3.3.4
+markdown==3.3.5
     # via
     #   markdown-include
     #   mkdocs
