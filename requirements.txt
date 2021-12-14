@@ -37,7 +37,7 @@ jinja2==3.0.3
     #   mkdocs-material
 jsmin==3.0.0
     # via mkdocs-minify-plugin
-lxml==4.6.5
+lxml==4.7.1
     # via mkdocs-htmlproofer-plugin
 markdown==3.3.6
     # via
@@ -67,7 +67,7 @@ mkdocs-git-revision-date-localized-plugin==0.11
     # via -r requirements.in
 mkdocs-htmlproofer-plugin==0.7.0
     # via -r requirements.in
-mkdocs-material==8.1.0
+mkdocs-material==8.1.1
     # via -r requirements.in
 mkdocs-material-extensions==1.0.3
     # via mkdocs-material
