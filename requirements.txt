@@ -73,11 +73,11 @@ mkdocs-material-extensions==1.0.3
     # via mkdocs-material
 mkdocs-minify-plugin==0.5.0
     # via -r requirements.in
-mkdocs-section-index==0.3.2
+mkdocs-section-index==0.3.3
     # via -r requirements.in
 packaging==21.3
     # via mkdocs
-pygments==2.10.0
+pygments==2.11.0
     # via mkdocs-material
 pymdown-extensions==9.1
     # via mkdocs-material
@@ -109,5 +109,5 @@ urllib3==1.26.7
     # via requests
 watchdog==2.1.6
     # via mkdocs
-zipp==3.6.0
+zipp==3.7.0
     # via importlib-metadata
