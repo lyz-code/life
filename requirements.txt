@@ -20,7 +20,7 @@ ghp-import==2.0.2
     # via mkdocs
 gitdb==4.0.9
     # via gitpython
-gitpython==3.1.24
+gitpython==3.1.25
     # via mkdocs-git-revision-date-localized-plugin
 htmlmin==0.1.12
     # via mkdocs-minify-plugin
@@ -77,7 +77,7 @@ mkdocs-section-index==0.3.3
     # via -r requirements.in
 packaging==21.3
     # via mkdocs
-pygments==2.11.1
+pygments==2.11.2
     # via mkdocs-material
 pymdown-extensions==9.1
     # via mkdocs-material
