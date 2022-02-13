@@ -10,7 +10,7 @@ beautifulsoup4==4.10.0
     # via mkdocs-htmlproofer-plugin
 certifi==2021.10.8
     # via requests
-charset-normalizer==2.0.11
+charset-normalizer==2.0.12
     # via requests
 click==8.0.3
     # via mkdocs
@@ -101,7 +101,7 @@ smmap==5.0.0
     # via gitdb
 soupsieve==2.3.1
     # via beautifulsoup4
-typing-extensions==4.0.1
+typing-extensions==4.1.0
     # via
     #   gitpython
     #   importlib-metadata
